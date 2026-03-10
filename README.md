@@ -68,7 +68,7 @@ my approach, and tools used.
 
 ## 🤝 Connect with Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Ganapathi%20Subramanian-blue?logo=linkedin)](https://www.linkedin.com/in/ganapathis1/))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Ganapathi%20Subramanian-blue?logo=linkedin)](https://www.linkedin.com/in/ganapathis1/)
 [![Email](https://img.shields.io/badge/Email-subgan%40gmail.com-red?logo=gmail)](mailto:subgan@gmail.com)
 
 ---
